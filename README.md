@@ -36,7 +36,7 @@ nassima = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=blvck-swan&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://visitcount.itsvg.in/api?id=blvck-swan&label=Profile%20Views&color=9&icon=0&pretty=true)
 
 </div>
 
