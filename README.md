@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:ec4899,100:3b82f6&height=200&section=header&text=Welcome%20to%20my%20digital%20realm%20%𖩥ৎ%20✧&fontSize=38&fontAlignY=38&desc=Thinking%20In%20Algorithms%20%F0%9F%90%9A%20%E2%9C%A7&descAlignY=58&fontColor=ffffff&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:ec4899,100:3b82f6&height=200&section=header&text=Welcome%20to%20my%20digital%20realm%20%F0%9F%96%A7%E0%A5%8E%20%E2%9C%A7&fontSize=38&fontAlignY=38&desc=Thinking%20In%20Algorithms%20%F0%9F%90%9A%20%E2%9C%A7&descAlignY=58&fontColor=ffffff&descSize=18" width="100%"/>
 
 </div>
 
 ---
 
 <div align="center">
+
+### ✦ ৎ⁀➴ Hello, I'm Nassima ৎ⁀➴ ✦
 
 ### ✦ Building systems from the ground up ✦
 
@@ -36,7 +38,7 @@ nassima = {
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=blvck-swan&label=Profile%20Views&color=6&icon=2&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=blvck-swan&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
